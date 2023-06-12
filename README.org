@@ -1,0 +1,10 @@
+* clx-xembed
+
+cl(x) xembed protocol implementation
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/laynor/clx-xembed.git   |
+| commit  | a5c4b84  |
+| systems | clx-xembed |
+|---------+-------------------------------------------|
+
